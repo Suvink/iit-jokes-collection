@@ -1,0 +1,5 @@
+// Programming Joke
+1. Create a variable named joke and assign a joke to it
+2. Print out the joke
+3. Print out the type of the variable joke
+4. Print out the type of the value "joke"
